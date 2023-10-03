@@ -12,14 +12,14 @@ Software yang dipakai :
 
 
 Video Pembelajaran :
-Video 1  : Pengenalan Embedded System                     : https://youtu.be/PPVivTmXwVE
-Video 2  : Mikrokontroler dan Papan System Terpadu        :  
-Video 3  : Penerapan Display                              :
-Video 4  : Penerapan Sensor dan Aktuator                  :
-Video 5  : Membuat Robot Sederhana                        :
-Video 6  : Real Time Operating System (RTOS)              :
-Video 7  : Komunikasi Universal Asynchronus RX/TX (UART)  :
-Video 8  : Komunikasi Inter Intergrated Circuit (I2C)     :
-Video 9  : Komunikasi Serial Peripheral Interface (SPI)   :
-Video 10 : Modul Bluetooth HC-05                          :
-Video 11 : Protokol Internet of Things (IoT)              :
+1. Video 1  : Pengenalan Embedded System                     : https://youtu.be/PPVivTmXwVE
+2. Video 2  : Mikrokontroler dan Papan System Terpadu        :
+3. Video 3  : Penerapan Display                              :
+4. Video 4  : Penerapan Sensor dan Aktuator                  :
+5. Video 5  : Membuat Robot Sederhana                        :
+6. Video 6  : Real Time Operating System (RTOS)              :
+7. Video 7  : Komunikasi Universal Asynchronus RX/TX (UART)  :
+8. Video 8  : Komunikasi Inter Intergrated Circuit (I2C)     :
+9. Video 9  : Komunikasi Serial Peripheral Interface (SPI)   :
+10. Video 10 : Modul Bluetooth HC-05                         :
+11. Video 11 : Protokol Internet of Things (IoT)             :
