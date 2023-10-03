@@ -3,6 +3,7 @@ Repositori ini untuk resume praktikum Embedded System Laboratorium Workshop
 --------------------------------------------------------------------------
 
 Software yang dipakai :
+-----------------------
 1. Arduino IDE : https://www.arduino.cc/en/software
 2. Tinkercad : https://www.tinkercad.com/
 3. Fritzing : https://drive.google.com/file/d/1l6UaxukCWw0-Y5K165-yNA_SZHLj-0Pl/view?usp=sharing
@@ -12,6 +13,7 @@ Software yang dipakai :
 
 
 Video Pembelajaran :
+--------------------
 1. Video 1  : Pengenalan Embedded System                     : https://youtu.be/PPVivTmXwVE
 2. Video 2  : Mikrokontroler dan Papan System Terpadu        :
 3. Video 3  : Penerapan Display                              :
