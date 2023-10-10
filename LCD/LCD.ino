@@ -1,3 +1,5 @@
+//Diharapkan untuk download library Liquid Crystal I2C terlebih dahulu
+
 #include <LiquidCrystal_I2C.h> //library untuk LCD I2C
 
 LiquidCrystal_I2C lcd(0x27, 16, 2); //mendeklarasikan parameter lcd untuk LCD I2C dan memberikan alamat LCD (0x27) serta ukuran LCD (16, 2) artinya 16x2
