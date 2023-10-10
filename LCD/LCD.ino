@@ -1,5 +1,4 @@
 #include <LiquidCrystal_I2C.h> //library untuk LCD I2C
-#include <Wire.h> //library untuk membaca pin SCL dan SDA
 
 LiquidCrystal_I2C lcd(0x27, 16, 2); //mendeklarasikan parameter lcd untuk LCD I2C dan memberikan alamat LCD (0x27) serta ukuran LCD (16, 2) artinya 16x2
 //alamat lain dari LCD adalah 0x3f. Silahkan cari cara di google untuk menentukan alamat LCD
@@ -7,7 +6,8 @@ LiquidCrystal_I2C lcd(0x27, 16, 2); //mendeklarasikan parameter lcd untuk LCD I2
 void setup(){
   lcd.begin();//memulai untuk memunculkan symbol, huruf atau angka pada lcd
   //jika error dapat gunakan perintah > lcd.init();
-  lcd.backlight(); //perintah untuk dapat mengatur pencahayaan lcd dengan memutar knop dengan obeng plus
+  lcd.setBacklight(HIGH); //perintah untuk dapat mengatur pencahayaan lcd redup (LOW) atau terang (HIGH)
+                          //untuk kondisi terang(HIGH) bisa  saja tidak harus dideklarasikan perintahnya
 }
 
 void loop(){
