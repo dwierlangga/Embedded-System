@@ -17,7 +17,7 @@ Video Pembelajaran :
 1. Video 1  : Pengenalan Embedded System                     : https://youtu.be/PPVivTmXwVE
 2. Video 2  : Mikrokontroler dan Papan Sistem Terpadu        : https://youtu.be/k5UpzvhnOlo
 3. Video 3  : Penerapan Display                              : https://youtu.be/WL0gW8knJcs
-4. Video 4  : Penerapan Sensor                               :
+4. Video 4  : Penerapan Sensor                               : https://youtu.be/z0-Zx7utui8
 5. Video 5  : Penerapan Aktuator                             :
 6. Video 6  : Real Time Operating System (RTOS)              :
 7. Video 7  : Komunikasi Universal Asynchronus RX/TX (UART)  :
