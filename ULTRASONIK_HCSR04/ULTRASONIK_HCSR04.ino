@@ -16,7 +16,7 @@ void loop(){
   delayMicroseconds(10);
   digitalWrite(trig, LOW);
   long duration = pulseIn(echo, HIGH); //pembacaan frequensi suara dengan jarak didepannya
-  float cm = duration*0.0034/2; //rumus untuk konversi frequensi suara menjadi jarak
+  float cm = duration*0.034/2; //rumus untuk konversi frequensi suara menjadi jarak
 
   //Tampilkan data pada serial monitor
   Serial.print("Jarak yang terbaca : ");
