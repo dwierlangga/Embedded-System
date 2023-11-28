@@ -22,7 +22,7 @@ Video Pembelajaran :
 4. Video 4  : Penerapan Sensor                               : https://youtu.be/z0-Zx7utui8
 5. Video 5  : Penerapan Aktuator                             : https://youtu.be/RQDf2PqAVK4
 6. Video 6  : Real Time Operating System (RTOS)              : https://youtu.be/5YTWKh5OQj8
-7. Video 7  : Komunikasi Universal Asynchronus RX/TX (UART)  :
+7. Video 7  : Komunikasi Universal Asynchronus RX/TX (UART)  : https://youtu.be/9IooCyJXRhM
 8. Video 8  : Komunikasi Inter Intergrated Circuit (I2C)     :
 9. Video 9  : Komunikasi Serial Peripheral Interface (SPI)   :
 10. Video 10 : Modul Bluetooth HC-05                         :
