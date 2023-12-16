@@ -24,6 +24,6 @@ Video Pembelajaran :
 6. Video 6  : Real Time Operating System (RTOS)              : https://youtu.be/5YTWKh5OQj8
 7. Video 7  : Komunikasi Universal Asynchronus RX/TX (UART)  : https://youtu.be/9IooCyJXRhM
 8. Video 8  : Komunikasi Inter Intergrated Circuit (I2C)     : https://youtu.be/xPmvo6BOTAY
-9. Video 9  : Komunikasi Serial Peripheral Interface (SPI)   :
+9. Video 9  : Komunikasi Serial Peripheral Interface (SPI)   : https://youtu.be/vyZlLgYyqH8
 10. Video 10 : Modul Bluetooth HC-05                         :
 11. Video 11 : Protokol Internet of Things (IoT)             :
